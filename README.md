@@ -1,5 +1,4 @@
-# 📄 LangChain Summarizer – Summarize YouTube Videos & Websites using Gemini
-
+# 📄 LangChain Summarizer – Summarize YouTube Videos & Websites Using Gemini
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
